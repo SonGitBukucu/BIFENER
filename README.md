@@ -6,8 +6,8 @@ Bununla daha sonra ilgilenmeyi düşündüğüm için bu repo şimdilik sadece "
 Bir pil tarafından güç sağlanan, düğmelere basıldığında led ile ışık veya buzzer ile ses uyarısı veren bir led & buzzer devresi.
 
 ## Yaptığım Değişiklikler
-Orijinal devre şeması ve PCB çizimi elimde bulunmadığı için projenin aynısını KiCad üzerinde oluşturdum. Devre şemasında herhangi bir değişiklik olmasa da PCB çiziminde değişiklikler yaptım. Asıl devre şeması ve PCB çizimi bir şekilde elime geçerse seve seve 
-kendi yaptıklarım ile değiştiririm.
+Orijinal devre şeması ve PCB çizimi elimde bulunmadığı için projenin aynısını KiCad üzerinde oluşturdum. Devre şemasında herhangi bir değişiklik olmasa da PCB çiziminde değişiklikler yaptım. Asıl devre şeması ve PCB 
+çizimi bir şekilde elime geçerse kendi yaptıklarımın yanına eklerim.
 
 1- Kullanılan pil olarak CR2032 pili seçtim. (Sadece footprint üzerinden tahmin yürüttüğüm için projenin aslında da CR2032 kullanılmış olabilir, ama yine de yazmak istedim.)
 2- Buzzer ve düğme footprintlerini ulaşılması kolay 6x6 tact button ve 12mm çaplı buzzer footprintleri ile değiştirdim. (Yukarıdaki madde ile aynı sebep)
